@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 
 import os
 
-from prototype import Ui_MainWindow
+from main_gui import Ui_MainWindow
 
 from main_about import main_about
 

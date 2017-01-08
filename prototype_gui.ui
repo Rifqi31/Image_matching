@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>857</width>
-    <height>586</height>
+    <height>446</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -97,29 +97,6 @@
     </property>
     <property name="text">
      <string>Gambar 2</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>110</x>
-      <y>430</y>
-      <width>101</width>
-      <height>17</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Hasil Matching</string>
-    </property>
-   </widget>
-   <widget class="QTextBrowser" name="output_calc">
-    <property name="geometry">
-     <rect>
-      <x>110</x>
-      <y>450</y>
-      <width>511</width>
-      <height>101</height>
-     </rect>
     </property>
    </widget>
   </widget>
